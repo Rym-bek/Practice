@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application with localization</string>
+    <string name="title">Hello World!</string>
+    <string name="description">Android is an open source operating system built for mobile devices based on a modified Linux kernel. This operating system was developed by the Open Handset Alliance, a consortium of major technology companies with Google as the organizer. The OS source code is provided as part of the Android Open Source Project (AOSP) under the Apache license. Launched on the market in 2007, Android soon became the best-selling operating system in history due to its open development model and user-friendly interface. The latest version of Android 11 was released in 2020.</string>
+</resources>
